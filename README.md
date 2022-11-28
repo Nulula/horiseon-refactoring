@@ -15,7 +15,7 @@ N/A
 This website can be inspected to check the code.  
   
 **Screenshot:**  
-![screenshot of the horiseon website] (.\assets\images\screenshot.png "screenshot of horiseon webpage" )
+![screenshot of the horiseon website](./assets/images/screenshot.png)
 
 ## Credits
 
